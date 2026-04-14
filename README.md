@@ -115,6 +115,14 @@ Gatewayhttp://localhost:8003/swagger-ui.html
 
 ### ajout d'un diplome 
 
+<img width="1908" height="966" alt="image" src="https://github.com/user-attachments/assets/4127676b-4c61-4372-b05d-a8d2a838b43c" />
+
+### REPONSE 
+
+<img width="1917" height="975" alt="image" src="https://github.com/user-attachments/assets/3c7e9cc7-b4f6-4dd5-b87c-6307c729e875" />
+
+<img width="1871" height="925" alt="image" src="https://github.com/user-attachments/assets/97a382a1-0f31-42c4-a6b7-37675d336ab7" />
+
 
 
 
