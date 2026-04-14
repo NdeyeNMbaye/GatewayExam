@@ -137,10 +137,26 @@ Gatewayhttp://localhost:8003/swagger-ui.html
 
 <img width="1899" height="855" alt="image" src="https://github.com/user-attachments/assets/93eb69f1-f22e-4485-823d-dba6da57a634" />
 
+### Competencies Service - Communication synchrone
 
+(a COMPLETER )
 
+###   Kafka - Communication asynchrone
 
+### Docker Hub - Images poussées
 
+<img width="1915" height="620" alt="image" src="https://github.com/user-attachments/assets/1fec9198-2379-47d3-871c-d8ffada5aa3e" />
+
+## DEVOPS
+
+CI/CD
+Chaque microservice dispose d'un fichier .github/workflows/ci.yml qui :
+
+Compile le projet avec Maven
+Construit l'image Docker
+Pousse l'image sur Docker Hub
+
+Docker Compose
 
 
 
