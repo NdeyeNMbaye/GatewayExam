@@ -156,8 +156,18 @@ Compile le projet avec Maven
 Construit l'image Docker
 Pousse l'image sur Docker Hub
 
-Docker Compose
+### DIplome service 
 
+<img width="1912" height="974" alt="image" src="https://github.com/user-attachments/assets/07295257-00bc-4746-89dd-a117bde4d81c" />
+
+
+### competences service 
+
+<img width="1911" height="960" alt="image" src="https://github.com/user-attachments/assets/174fa5e9-ddfa-422c-975f-d4a05712a0af" />
+
+### User service 
+
+<img width="1912" height="987" alt="image" src="https://github.com/user-attachments/assets/6ba97591-bdfb-4084-9267-fdde311a7557" />
 
 
 
